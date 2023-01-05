@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// 개구리 징검다리 건너기
+
 int solution(int stones[], int stones_len) {
 	int cnt = 0;
 	int current = 0;
